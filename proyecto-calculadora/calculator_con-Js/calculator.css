@@ -1,3 +1,14 @@
+body {
+        background-color: rgb(239, 186, 105);
+
+}
+.frame {
+        box-sizing: border-box;
+        border: 3px, solid, rgb(7, 7, 39);
+
+}
+
+
 input[type=button] 
         {
         background-color: white;
